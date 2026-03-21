@@ -1,5 +1,3 @@
-### Обо мне
-
 Я разрабатываю стабильные и масштабируемые backend-системы для клиентских проектов.  
 
 Моя основная экспертиза — **PHP и Laravel**. Я быстро разбираюсь в чужом коде, провожу рефакторинг legacy-систем, реализую сложные интеграции и Telegram-ботов.  
@@ -10,17 +8,26 @@
 
 ### 🛠 Стек технологий
 
-![Tech Stack](https://skillicons.dev/icons?i=php,laravel,mysql,docker,git,javascript,react,postman,telegram&perline=10&theme=dark)
+![Tech Stack](https://skillicons.dev/icons?i=php,laravel,mysql,docker,git,github,bitbucket,jira,javascript,react,postman,telegram&perline=12&theme=dark)
 
 **Полный перечень:**
 
 - **Языки и фреймворки**: PHP, Laravel  
 - **Базы данных**: MySQL, SQL  
 - **Инфраструктура**: Docker, Docker Compose  
-- **Версионный контроль**: Git  
+- **Версионный контроль**: Git, GitHub, Bitbucket  
 - **API и интеграции**: REST API, Telegram Bot API, Web API  
-- **Инструменты**: Postman  
-- **Frontend (поддержка)**: JavaScript, React  
+- **Инструменты**: Postman, Xdebug  
+- **Системы управления**: Jira  
+- **Проекты**: Teletask (платформа управления задачами и процессами)
+
+---
+
+### Архитектура и практики
+
+- **ACID** — принципы атомарности, согласованности, изоляции и долговечности транзакций  
+- **SOLID** — пять принципов чистого объектно-ориентированного проектирования  
+- **DDD** — Domain-Driven Design (проектирование через доменную логику бизнеса)
 
 ---
 
@@ -34,7 +41,7 @@
 
 ### 📫 Контакты
 
-[![Telegram](https://img.shields.io/badge/Telegram-@dustun1-00BFFF?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dustun1)  
+[![Telegram](https://img.shields.io/badge/Telegram-@dustun01-00BFFF?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dustun01)  
 [![Email](https://img.shields.io/badge/Email-imranimranov0909@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imranimranov0909@gmail.com)
 
 ---
