@@ -8,7 +8,7 @@
 
 ### 🛠 Стек технологий
 
-![Stack](https://skillicons.dev/icons?i=php,laravel,mysql,redis,docker,git&theme=dark)
+![Tech Stack](https://skillicons.dev/icons?i=php,laravel,filament,mysql,redis,docker,git,github,bitbucket,teletask,gitlab,js,react,postman&perline=6&theme=dark)
 
 ### 🧰 Инструменты
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)
