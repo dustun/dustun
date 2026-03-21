@@ -1,64 +1,44 @@
-<div align="center">
+### Обо мне
 
-# 👋 Привет, я **Имран Псху**!
+Я разрабатываю стабильные и масштабируемые backend-системы для клиентских проектов.  
 
-**Backend-разработчик (PHP • Laravel)**  
-20 лет · Ставрополь · Готов к удалённой работе
+Моя основная экспертиза — **PHP и Laravel**. Я быстро разбираюсь в чужом коде, провожу рефакторинг legacy-систем, реализую сложные интеграции и Telegram-ботов.  
 
-![Visitors](https://komarev.com/ghpvc/?username=**ВАШ_ГИТХАБ_ЛОГИН**&label=Просмотры&color=00C853&style=flat-square)
-
-</div>
+Каждое техническое решение принимаю с чётким приоритетом: максимальная польза для заказчика — ускорение бизнес-процессов, высокая надёжность и удобство конечных пользователей.
 
 ---
 
-### 🚀 Обо мне
+### 🛠 Стек технологий
 
-Создаю **стабильные и масштабируемые backend-системы** для клиентских проектов.  
-Экспертиза — **PHP + Laravel**. Быстро погружаюсь в чужой код, рефакторю legacy, внедряю интеграции, Telegram-ботов и современный AI (локальные модели + внешние API).
+![Tech Stack](https://skillicons.dev/icons?i=php,laravel,mysql,docker,git,javascript,react,postman,telegram&perline=10&theme=dark)
 
-Все решения — с фокусом на ценность для заказчика: скорость, надёжность и удобство пользователей.
+**Полный перечень:**
 
----
-
-### 🛠 Мой стек технологий
-
-![Skills](https://skillicons.dev/icons?i=php,laravel,mysql,docker,git,javascript,react,postman,ollama,openai,telegram&perline=9&theme=dark)
-
-#### AI & LLM
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-FF9900?style=for-the-badge&logo=groq&logoColor=white)
-![Grok xAI](https://img.shields.io/badge/Grok%20xAI-000000?style=for-the-badge&logo=xai&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+- **Языки и фреймворки**: PHP, Laravel  
+- **Базы данных**: MySQL, SQL  
+- **Инфраструктура**: Docker, Docker Compose  
+- **Версионный контроль**: Git  
+- **API и интеграции**: REST API, Telegram Bot API, Web API  
+- **Инструменты**: Postman  
+- **Frontend (поддержка)**: JavaScript, React  
 
 ---
 
-### 📊 Моя GitHub-статистика
+### 📊 GitHub-статистика
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=**ВАШ_ГИТХАБ_ЛОГИН**&theme=radical&hide_border=true&show_icons=true&count_private=true&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=**ВАШ_НИКНЕЙМ**&theme=radical&hide_border=true&show_icons=true&count_private=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=**ВАШ_ГИТХАБ_ЛОГИН**&theme=radical&layout=compact&hide_border=true&langs_count=8)
-
----
-
-### 📌 Избранные проекты
-
-**Тут будут карточки твоих репозиториев** (добавь ниже по примеру):
-
-<!-- 
-- **[Название проекта]** — короткое описание  
-  ![Tech](https://img.shields.io/badge/PHP-Laravel-blue)  
-  [→ Перейти](https://github.com/твой_логин/репозиторий)
--->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=**ВАШ_НИКНЕЙМ**&theme=radical&layout=compact&hide_border=true&langs_count=8)
 
 ---
 
-### 📫 Как связаться
+### 📫 Контакты
 
-[![Telegram](https://img.shields.io/badge/Telegram-@dustun1-00BFFF?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dustun1)
+[![Telegram](https://img.shields.io/badge/Telegram-@dustun1-00BFFF?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dustun1)  
 [![Email](https://img.shields.io/badge/Email-imranimranov0909@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imranimranov0909@gmail.com)
 
 ---
 
 <div align="center">
-  <i>Made with ❤️ и любовью к чистому коду</i>
+  <i>Разрабатываю чистый и надёжный код</i>
 </div>
