@@ -8,7 +8,7 @@
 
 ### 🛠 Стек технологий
 
-![Tech Stack](https://skillicons.dev/icons?i=php,laravel,mysql,docker,git,github,bitbucket,jira,javascript,react,postman,acid,ddd,solid,telegram&perline=12&theme=dark)
+![Tech Stack](https://skillicons.dev/icons?i=php,laravel,mysql,redis,docker,git,github,bitbucket,gitlab,js,react,postman&perline=6&theme=dark)
 
 **Полный перечень:**
 
