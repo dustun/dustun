@@ -1,14 +1,14 @@
-Я разрабатываю стабильные и масштабируемые backend-системы для клиентских проектов.  
+Разрабатываю стабильные и масштабируемые backend-системы для клиентских проектов.
 
-Моя основная экспертиза — **PHP и Laravel**. Я быстро разбираюсь в чужом коде, провожу рефакторинг legacy-систем, реализую сложные интеграции и Telegram-ботов.  
+Специализируюсь на PHP и Laravel. Быстро погружаюсь в существующие кодовые базы, провожу рефакторинг legacy-систем, реализую интеграции с внешними сервисами и Telegram-ботов.
 
-Каждое техническое решение принимаю с чётким приоритетом: максимальная польза для заказчика — ускорение бизнес-процессов, высокая надёжность и удобство конечных пользователей.
+При разработке фокусируюсь на практической ценности: ускорении бизнес-процессов, надёжности системы и удобстве для конечных пользователей.
 
 ---
 
 ### 🛠 Стек технологий
 
-![Tech Stack](https://skillicons.dev/icons?i=php,laravel,mysql,docker,git,github,bitbucket,jira,javascript,react,postman,telegram&perline=12&theme=dark)
+![Tech Stack](https://skillicons.dev/icons?i=php,laravel,mysql,docker,git,github,bitbucket,jira,javascript,react,postman,acid,ddd,solid,telegram&perline=12&theme=dark)
 
 **Полный перечень:**
 
@@ -28,14 +28,6 @@
 - **ACID** — принципы атомарности, согласованности, изоляции и долговечности транзакций  
 - **SOLID** — пять принципов чистого объектно-ориентированного проектирования  
 - **DDD** — Domain-Driven Design (проектирование через доменную логику бизнеса)
-
----
-
-### 📊 GitHub-статистика
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=**ВАШ_НИКНЕЙМ**&theme=radical&hide_border=true&show_icons=true&count_private=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=**ВАШ_НИКНЕЙМ**&theme=radical&layout=compact&hide_border=true&langs_count=8)
 
 ---
 
