@@ -2,9 +2,9 @@
 
 <p align="center">
   <img
-    src="https://pin.it/gVaY4YF4q"
+    src="[https://pin.it/gVaY4YF4q](https://i.pinimg.com/1200x/8b/3b/55/8b3b555a6af07df0228679e2b09a5c3c.jpg)"
     width="100%"
-    alt="Vagabond Banner"
+    alt="img"
   />
 </p>
 
