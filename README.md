@@ -2,7 +2,7 @@
 
 <p align="center">
   <img
-    src="[https://i.pinimg.com/736x/ec/ee/08/ecee086fb2fd625bea59fcb9298664b5.jpg](https://i.pinimg.com/1200x/61/ae/49/61ae49e1d1c64abe7d61fc1154a99aab.jpg)"
+    src="https://pin.it/gVaY4YF4q"
     width="100%"
     alt="Vagabond Banner"
   />
