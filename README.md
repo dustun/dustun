@@ -1,23 +1,46 @@
+<!-- ========================= VAGABOND BANNER ========================= -->
+
 <p align="center">
-  <img src="./assets/vagabond-banner.jpg" width="100%" alt="Vagabond Banner" />
+  <img
+    src="ВСТАВЬ_СЮДА_ПРЯМУЮ_ССЫЛКУ_НА_КАРТИНКУ"
+    width="100%"
+    alt="Vagabond Banner"
+  />
 </p>
+
+<!-- ========================= INTRODUCTION ========================= -->
 
 <h1 align="center">Привет, я Имран 👋</h1>
 
 <h3 align="center">
-  Backend Developer · PHP · Laravel · API · Architecture
+  Backend Developer
 </h3>
 
 <p align="center">
-  Разрабатываю стабильные и масштабируемые backend-системы для клиентских проектов
+  Разрабатываю стабильные и масштабируемые backend-системы
+  для клиентских и собственных проектов
 </p>
 
 <p align="center">
   <a href="https://t.me/dustun01">
-    <img src="https://img.shields.io/badge/Telegram-@dustun01-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+    <img
+      src="https://img.shields.io/badge/Telegram-@dustun01-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"
+      alt="Telegram"
+    />
   </a>
+
   <a href="mailto:imranimranov0909@gmail.com">
-    <img src="https://img.shields.io/badge/Email-imranimranov0909%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img
+      src="https://img.shields.io/badge/Email-imranimranov0909%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+    />
+  </a>
+
+  <a href="https://github.com/dustun">
+    <img
+      src="https://img.shields.io/badge/GitHub-dustun-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
   </a>
 </p>
 
@@ -27,106 +50,158 @@
 
 Разрабатываю стабильные и масштабируемые backend-системы для клиентских проектов.
 
-Специализируюсь на **PHP** и **Laravel**. Быстро погружаюсь в существующие кодовые базы, провожу рефакторинг legacy-систем, реализую интеграции с внешними сервисами и Telegram-ботов.
+Специализируюсь на **PHP** и **Laravel**. Быстро погружаюсь в существующие кодовые базы, провожу рефакторинг legacy-систем, проектирую бизнес-логику и реализую интеграции с внешними сервисами.
 
-При разработке фокусируюсь на практической ценности: **ускорении бизнес-процессов, надёжности системы и удобстве для конечных пользователей**.
+Работаю с REST API, Telegram-ботами, системами авторизации, базами данных, WebSocket-соединениями и административными панелями.
+
+При разработке фокусируюсь на практической ценности:
+
+- ускорении бизнес-процессов;
+- надёжности и предсказуемости системы;
+- чистоте и поддерживаемости кода;
+- удобстве дальнейшего развития проекта;
+- удобстве продукта для конечных пользователей.
 
 ---
 
 ## 🚀 Чем занимаюсь
 
-- Разработка backend-систем и бизнес-логики
-- Проектирование и реализация REST API
-- Рефакторинг и поддержка legacy-проектов
-- Интеграции с внешними сервисами
-- Разработка Telegram-ботов
-- Авторизация, аутентификация, управление сессиями
-- Работа с БД, оптимизация запросов и проектирование структуры данных
-- Контейнеризация и развёртывание окружения
-- Взаимодействие backend и frontend частей приложения
+- Разрабатываю backend-приложения на PHP и Laravel
+- Проектирую и реализую REST API
+- Разрабатываю бизнес-логику и доменные процессы
+- Работаю с существующими и legacy-кодовыми базами
+- Провожу рефакторинг и декомпозицию сложной логики
+- Реализую интеграции с внешними API и сервисами
+- Разрабатываю Telegram-ботов
+- Реализую WebSocket-взаимодействие
+- Проектирую структуру реляционных баз данных
+- Работаю с транзакциями и согласованностью данных
+- Контейнеризирую проекты через Docker
+- Интегрирую backend с React и Next.js приложениями
 
 ---
 
 ## 🛠 Технологии и инструменты
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,redis,docker,git,github,gitlab,bitbucket,js,ts,react,nextjs,postman,vscode&perline=8&theme=dark" alt="Tech Stack" />
+  <img
+    src="https://skillicons.dev/icons?i=php,laravel,mysql,redis,docker,git,github,gitlab,bitbucket,js,ts,react,nextjs,html,css,postman,vscode&perline=9&theme=dark"
+    alt="Technology Stack"
+  />
 </p>
 
-### Полный перечень:
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge"
+    alt="REST API"
+  />
+  <img
+    src="https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"
+    alt="Telegram Bot API"
+  />
+  <img
+    src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white"
+    alt="WebSocket"
+  />
+  <img
+    src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white"
+    alt="Docker Compose"
+  />
+  <img
+    src="https://img.shields.io/badge/Xdebug-7D4CDB?style=for-the-badge&logo=php&logoColor=white"
+    alt="Xdebug"
+  />
+  <img
+    src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"
+    alt="Jira"
+  />
+</p>
 
-- **Языки и фреймворки:** PHP, Laravel, JavaScript, TypeScript, React, Next.js  
-- **Базы данных:** MySQL, SQL, Redis  
-- **Инфраструктура:** Docker, Docker Compose  
-- **Контроль версий:** Git, GitHub, GitLab, Bitbucket  
-- **API и интеграции:** REST API, Telegram Bot API, Web API  
-- **Инструменты:** Postman, Xdebug, VS Code  
-- **Системы управления:** Jira  
-- **Проекты:** Teletask  
+### Используемый стек
 
----
-
-## 🧠 Архитектура и практики
-
-- **ACID** — принципы атомарности, согласованности, изоляции и долговечности транзакций  
-- **SOLID** — пять принципов чистого объектно-ориентированного проектирования  
-- **DDD** — Domain-Driven Design  
-- **FSD** — Feature-Sliced Design  
-- **DRY** — Don't Repeat Yourself  
-- **KISS** — Keep It Simple, Stupid  
-- **Next.js architecture** — построение современных fullstack/frontend-приложений  
-- **Чистая архитектура**  
-- **Разделение ответственности**  
-- **Рефакторинг и поддерживаемость кода**
-
----
-
-## 📦 Практический опыт
-
-Имею опыт реализации следующих модулей и задач:
-
-- регистрация и авторизация пользователей  
-- подтверждение электронной почты  
-- смена и восстановление пароля  
-- управление пользовательскими сессиями  
-- CRUD-функциональность  
-- административные панели  
-- Telegram-боты  
-- WebSocket-уведомления  
-- интеграции со сторонними API  
-- отправка email  
-- фильтрация, сортировка и каталогизация данных  
-- проектирование бизнес-логики  
-- работа с ролями и правами доступа  
-- статистика и внутренние сервисные модули  
+- **Backend:** PHP, Laravel
+- **Frontend:** JavaScript, TypeScript, React, Next.js
+- **Базы данных:** MySQL, SQL, Redis
+- **API:** REST API, Web API, Telegram Bot API, WebSocket
+- **Инфраструктура:** Docker, Docker Compose
+- **Контроль версий:** Git, GitHub, GitLab, Bitbucket
+- **Инструменты:** Postman, Xdebug, Visual Studio Code, Jira
+- **Взаимодействие:** JSON, Axios, Bearer Token Authentication
+- **Административные панели:** Laravel Filament
 
 ---
 
-## 📁 Проекты
+## 🧠 Архитектура и инженерные практики
 
-### Teletask
+| Подход | Применение |
+|---|---|
+| **SOLID** | Разделение ответственности и расширяемость компонентов |
+| **DDD** | Проектирование системы вокруг бизнес-домена |
+| **FSD** | Организация frontend-кода по принципам Feature-Sliced Design |
+| **ACID** | Надёжность и согласованность операций с данными |
+| **DRY** | Устранение повторяющейся логики |
+| **KISS** | Сохранение минимально необходимой сложности |
+| **Clean Architecture** | Разделение бизнес-логики и инфраструктуры |
+| **Separation of Concerns** | Разделение ответственности между слоями приложения |
+| **CQRS** | Разделение операций чтения и изменения данных |
+| **DTO** | Передача структурированных данных между слоями |
+| **Repository Pattern** | Абстрагирование доступа к данным |
+| **Dependency Injection** | Управление зависимостями компонентов |
+| **Fail Fast** | Ранняя валидация некорректных данных |
 
-Платформа управления задачами и внутренними процессами.
+> **Next.js** указан в технологическом стеке, поскольку это framework.  
+> **FSD** находится в архитектурном блоке, поскольку это методология организации frontend-приложения.
 
-**Что реализовывал:**
+---
 
-- backend-логику
-- проектирование API
-- реализацию бизнес-процессов
-- интеграции с внешними сервисами
-- поддержку и рефакторинг существующего кода
+## 🧩 Практический опыт
+
+Имею опыт реализации следующих функциональных модулей:
+
+- регистрация и авторизация пользователей;
+- подтверждение электронной почты;
+- восстановление и изменение пароля;
+- управление пользовательскими сессиями;
+- работа с ролями и разрешениями;
+- CRUD-модули;
+- загрузка и хранение файлов;
+- фильтрация, сортировка и пагинация;
+- административные панели на Filament;
+- Telegram-боты;
+- WebSocket-уведомления;
+- отправка электронной почты;
+- интеграции со сторонними API;
+- проектирование API-контрактов;
+- статистика и административные виджеты;
+- обработка заказов;
+- транзакционные операции;
+- фоновые задачи и очереди;
+- рефакторинг legacy-систем.
 
 ---
 
 ## 📊 GitHub-статистика
 
 <p align="center">
-  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img
+    width="49%"
+    src="https://github-stats-extended.vercel.app/api?username=dustun&show_icons=true&theme=transparent&hide_border=true"
+    alt="GitHub Statistics"
+  />
+
+  <img
+    width="49%"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=dustun&layout=compact&theme=transparent&hide_border=true&langs_count=8"
+    alt="Most Used Languages"
+  />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+  <img
+    width="100%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=dustun&theme=github-compact&hide_border=true&area=true"
+    alt="GitHub Activity Graph"
+  />
 </p>
 
 ---
@@ -135,15 +210,29 @@
 
 <p align="center">
   <a href="https://t.me/dustun01">
-    <img src="https://img.shields.io/badge/Telegram-@dustun01-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+    <img
+      src="https://img.shields.io/badge/Telegram-Написать-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"
+      alt="Telegram"
+    />
   </a>
+
   <a href="mailto:imranimranov0909@gmail.com">
-    <img src="https://img.shields.io/badge/Email-imranimranov0909%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img
+      src="https://img.shields.io/badge/Email-Отправить_письмо-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+    />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>Разрабатываю чистый, надёжный и практичный код</i>
+  <strong>Чистая архитектура · Понятный код · Надёжный результат</strong>
+</p>
+
+<p align="center">
+  <i>
+    Разрабатываю backend-системы, которые решают реальные задачи
+    и остаются удобными для дальнейшего развития
+  </i>
 </p>
