@@ -109,17 +109,22 @@ Backend-разработчик, специализирующийся на про
   />
 </p>
 
-### Используемый стек
+## 🛠 Технологический стек
 
-- **Backend:** PHP, Laravel
-- **Frontend:** JavaScript, TypeScript, React, Next.js
-- **Базы данных:** MySQL, SQL, Redis
-- **API:** REST API, Web API, Telegram Bot API, WebSocket
-- **Инфраструктура:** Docker, Docker Compose
-- **Контроль версий:** Git, GitHub, GitLab, Bitbucket
-- **Инструменты:** Postman, Xdebug, Visual Studio Code, Jira
-- **Взаимодействие:** JSON, Axios, Bearer Token Authentication
-- **Административные панели:** Laravel Filament
+- **Backend:** PHP, Laravel, Composer, Eloquent ORM
+- **Frontend:** JavaScript, TypeScript, React, Next.js, Axios
+- **Базы данных и хранение:** PostgreSQL, MySQL, Redis, SQL
+- **API и аутентификация:** REST API, OpenAPI, Laravel Sanctum, Token-Based Authentication
+- **Асинхронная обработка:** Laravel Queues, RabbitMQ, фоновые задачи, повторные попытки и маршрутизация очередей
+- **Административные системы:** Filament, Filament Shield, Role-Based Access Control
+- **Интеграции:** Telegram Bot API, WebSocket, внешние REST API
+- **Работа с данными и файлами:** Spatie Laravel Data, Spatie Media Library, потоковая обработка JSON
+- **Тестирование:** PHPUnit, Mockery, Faker
+- **Качество кода:** Larastan, PHPStan, Laravel Pint, PHP-CS-Fixer
+- **Диагностика и мониторинг:** Xdebug, Laravel Debugbar, Laravel Pail, Health Checks
+- **Инфраструктура:** Docker, Docker Compose, Laravel Sail
+- **Контроль версий и процессы:** Git, GitHub, GitLab, Bitbucket, Jira
+- **Инструменты:** Postman, Visual Studio Code, PhpStorm, WebStorm
 
 ---
 
